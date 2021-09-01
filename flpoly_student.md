@@ -1,24 +1,24 @@
-## Student Name (or name you would preferred to be called)
+## Derrick Wilson
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Intro to programming using Python
 
-- Course 3
+- Foundations of Academic Success 
 
-- Course 4
+- Precalculus Algebra/Trigonometry
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- I like reading 
 
-- Thing 2
+- I honestly love working with my hands whether it is robotics, programming, or something as simple as reorganizing things.
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
